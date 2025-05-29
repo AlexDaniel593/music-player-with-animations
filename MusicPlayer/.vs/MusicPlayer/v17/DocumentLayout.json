@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\MusicPlayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE808A3-58FF-4ED2-BA47-A10506C677C4}|MusicPlayer\\MusicPlayer.csproj|C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\MusicPlayer\\musicplayer\\frmindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CE808A3-58FF-4ED2-BA47-A10506C677C4}|MusicPlayer\\MusicPlayer.csproj|solutionrelative:musicplayer\\frmindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE808A3-58FF-4ED2-BA47-A10506C677C4}|MusicPlayer\\MusicPlayer.csproj|c:\\users\\dalex\\onedrive\\documentos\\espe\\grafica\\source\\repos\\musicplayer\\musicplayer\\frmindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE808A3-58FF-4ED2-BA47-A10506C677C4}|MusicPlayer\\MusicPlayer.csproj|solutionrelative:musicplayer\\frmindex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE808A3-58FF-4ED2-BA47-A10506C677C4}|MusicPlayer\\MusicPlayer.csproj|C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\MusicPlayer\\musicplayer\\playlistmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE808A3-58FF-4ED2-BA47-A10506C677C4}|MusicPlayer\\MusicPlayer.csproj|solutionrelative:musicplayer\\playlistmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE808A3-58FF-4ED2-BA47-A10506C677C4}|MusicPlayer\\MusicPlayer.csproj|C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\MusicPlayer\\musicplayer\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE808A3-58FF-4ED2-BA47-A10506C677C4}|MusicPlayer\\MusicPlayer.csproj|solutionrelative:musicplayer\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE808A3-58FF-4ED2-BA47-A10506C677C4}|MusicPlayer\\MusicPlayer.csproj|C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\MusicPlayer\\musicplayer\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE808A3-58FF-4ED2-BA47-A10506C677C4}|MusicPlayer\\MusicPlayer.csproj|solutionrelative:musicplayer\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE808A3-58FF-4ED2-BA47-A10506C677C4}|MusicPlayer\\MusicPlayer.csproj|C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\MusicPlayer\\musicplayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE808A3-58FF-4ED2-BA47-A10506C677C4}|MusicPlayer\\MusicPlayer.csproj|solutionrelative:musicplayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmIndex.cs",
+              "DocumentMoniker": "C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\MusicPlayer\\MusicPlayer\\FrmIndex.cs",
+              "RelativeDocumentMoniker": "MusicPlayer\\FrmIndex.cs",
+              "ToolTip": "C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\MusicPlayer\\MusicPlayer\\FrmIndex.cs",
+              "RelativeToolTip": "MusicPlayer\\FrmIndex.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAkwMwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:06:08.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AudioPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\MusicPlayer\\MusicPlayer\\AudioPlayer.cs",
+              "RelativeDocumentMoniker": "MusicPlayer\\AudioPlayer.cs",
+              "ToolTip": "C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\MusicPlayer\\MusicPlayer\\AudioPlayer.cs",
+              "RelativeToolTip": "MusicPlayer\\AudioPlayer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAD4v1gAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:13:50.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\MusicPlayer\\MusicPlayer\\FileHelper.cs",
+              "RelativeDocumentMoniker": "MusicPlayer\\FileHelper.cs",
+              "ToolTip": "C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\MusicPlayer\\MusicPlayer\\FileHelper.cs",
+              "RelativeToolTip": "MusicPlayer\\FileHelper.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAiwIQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:15:43.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlaylistManager.cs",
+              "DocumentMoniker": "C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\MusicPlayer\\MusicPlayer\\PlaylistManager.cs",
+              "RelativeDocumentMoniker": "MusicPlayer\\PlaylistManager.cs",
+              "ToolTip": "C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\MusicPlayer\\MusicPlayer\\PlaylistManager.cs",
+              "RelativeToolTip": "MusicPlayer\\PlaylistManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwCYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T00:26:58.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmIndex.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\MusicPlayer\\MusicPlayer\\FrmIndex.cs",
+              "RelativeDocumentMoniker": "MusicPlayer\\FrmIndex.cs",
+              "ToolTip": "C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\MusicPlayer\\MusicPlayer\\FrmIndex.cs [Design]",
+              "RelativeToolTip": "MusicPlayer\\FrmIndex.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T23:54:22.999Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\MusicPlayer\\MusicPlayer\\Program.cs",
+              "RelativeDocumentMoniker": "MusicPlayer\\Program.cs",
+              "ToolTip": "C:\\Users\\dalex\\OneDrive\\Documentos\\ESPE\\Grafica\\source\\repos\\MusicPlayer\\MusicPlayer\\Program.cs",
+              "RelativeToolTip": "MusicPlayer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T20:57:17.412Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
