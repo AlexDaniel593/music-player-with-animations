@@ -62,11 +62,12 @@ namespace MusicPlayer
 
         private void UpdateVisualizationPanelSize(object sender, EventArgs e)
         {
-            const int rightPanelWidth = 230; 
+            const int rightPanelWidth = 230;
+            const int bottomPanelHeight = 70;
 
             visualizationPanel.Size = new Size(
                 this.ClientSize.Width - rightPanelWidth,
-                this.ClientSize.Height
+                this.ClientSize.Height - bottomPanelHeight
             );
         }
 
